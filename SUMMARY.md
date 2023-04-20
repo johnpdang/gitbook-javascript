@@ -32,6 +32,7 @@
 * [Flow Control](flow-control.md)
 * [Form](form.md)
 * [Framework](framework/README.md)
+  * [Astro](framework/astro.md)
   * [Vue](framework/vue.md)
 * [Functions](functions/README.md)
   * [Arrow functions](functions/arrow-functions.md)
