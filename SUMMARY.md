@@ -4,6 +4,7 @@
 * [Accessibility](accessibility.md)
 * [Accordions](accordions.md)
 * [Animation](animation/README.md)
+  * [codepen](animation/codepen.md)
   * [GSAP](animation/gsap.md)
   * [SVG](animation/svg/README.md)
     * [Greensock](animation/svg/greensock.md)
