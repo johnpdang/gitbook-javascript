@@ -72,6 +72,7 @@
 * [Translate](translate.md)
 * [Tutorials/tests](tutorials-tests.md)
 * [Types](types.md)
+* [Typescript](typescript.md)
 * [Variables](variables.md)
 * [Video](video.md)
 * [Web Browser](web-browser.md)
