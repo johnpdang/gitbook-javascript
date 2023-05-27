@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                          |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [How to modify a URL without reloading the page with vanilla JavaScript](https://gomakethings.com/how-to-modify-a-url-without-reloading-the-page-with-vanilla-javascript/)               | 5/27/23 |
 | [Working with URL query string parameters with vanilla JavaScript](https://gomakethings.com/working-with-url-query-string-parameters-with-vanilla-javascript/)                           | 5/23/23 |
 | [Working with URLs with vanilla JavaScript](https://gomakethings.com/working-with-urls-with-vanilla-javascript/)                                                                         | 5/22/23 |
 | [How to get all of the query string parameters from a URL with vanilla JS](https://gomakethings.com/how-to-get-all-of-the-query-string-parameters-from-a-url-with-vanilla-js/)           | 4/18    |
