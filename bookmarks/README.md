@@ -2,9 +2,9 @@
 
 |                                                                                                                                                                                                                                   |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+|                                                                                                                                                                                                                                   |         |
+| [SOLID Principles in JavaScript](https://medium.com/@akashjha9041/solid-principles-in-javascript-ab69197e4cf7)                                                                                                                    | 5/30/23 |
 | [7 JavaScript Design Patterns Every developer should know](https://codinghelp.io/7-javascript-design-patterns-every-developer-should-know/?utm\_campaign=Frontend%2BWeekly\&utm\_medium=email\&utm\_source=Frontend\_Weekly\_357) | 5/10/23 |
-|                                                                                                                                                                                                                                   |         |
-|                                                                                                                                                                                                                                   |         |
 
 ### 2021 Articles
 
