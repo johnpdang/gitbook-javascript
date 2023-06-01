@@ -1,7 +1,7 @@
 # Astro
 
-|                                                                                        |         |
-| -------------------------------------------------------------------------------------- | ------- |
-| [Astro For Everyone](https://levelup.video/tutorials/astro-for-everyone/what-is-astro) | 4/20/23 |
-|                                                                                        |         |
-|                                                                                        |         |
+|                                                                                                                                                                                                                                                                                                             |         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Overcoming styling frustrations caused by Astro islands and slots](https://zellwk.com/blog/overcoming-astro-styling-frustrations/?ck\_subscriber\_id=420572458\&utm\_source=convertkit\&utm\_medium=email\&utm\_campaign=Overcoming+styling+frustrations+caused+by+Astro+islands+and+slots%20-%2010902749) | 6/1/23  |
+| [Astro For Everyone](https://levelup.video/tutorials/astro-for-everyone/what-is-astro)                                                                                                                                                                                                                      | 4/20/23 |
+|                                                                                                                                                                                                                                                                                                             |         |
