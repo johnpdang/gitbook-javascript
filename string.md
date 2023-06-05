@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                                       |        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [How to reverse each word in a string with vanilla JavaScript](https://gomakethings.com/how-to-reverse-each-word-in-a-string-with-vanilla-javascript/)                                                                                                | 6/5/23 |
 | [What does (123\[‘toString’\].length + 123) Print Out in JavaScript?](https://fatfish.medium.com/what-does-123-tostring-length-123-print-out-in-javascript-32646bbb8f87)                                                                              | 5/6/23 |
 | [Getting the index of the last matching item in an array with vanilla JS](https://gomakethings.com/getting-the-index-of-the-last-matching-item-in-an-array-with-vanilla-js/)                                                                          | 6/15   |
 | [How to trim whitespace from the beginning and end of a string with vanilla JS](https://gomakethings.com/how-to-trim-whitespace-from-the-beginning-and-end-of-a-string-with-vanilla-js/)                                                              | 6/13   |
