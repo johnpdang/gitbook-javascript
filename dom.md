@@ -2,8 +2,8 @@
 
 |                                                                                                                         |         |
 | ----------------------------------------------------------------------------------------------------------------------- | ------- |
+| [8 DOM APIs You Shouldn’t Ignore](https://javascript.plainenglish.io/8-html-tips-you-shouldnt-ignore-fc1aa36ebf1c)      | 6/6/23  |
 | [$(document).ready equivalent without jQuery](https://dev.to/navyaarora01/documentready-equivalent-without-jquery-1o45) | 5/31/23 |
-|                                                                                                                         |         |
 |                                                                                                                         |         |
 
 ### 2021
