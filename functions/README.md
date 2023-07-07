@@ -3,7 +3,7 @@
 |                                                                                                                                                                               |         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [8 Reasons to Tell You, Please Stop Using the forEach Function](https://javascript.plainenglish.io/8-reasons-to-tell-you-please-stop-using-the-foreach-function-1b567f33fb91) | 4/29/23 |
-|                                                                                                                                                                               |         |
+| [5 JavaScript Decorator Tricks That Will Catch Your Eye](https://javascript.plainenglish.io/5-javascript-decorator-tricks-that-will-catch-your-eye-a31a717f5497)              | 7/7/23  |
 |                                                                                                                                                                               |         |
 
 ### 2021 Articles
