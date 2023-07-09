@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                              |         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [10 Web APIs Every Senior Web Engineer Should Master!](https://javascript.plainenglish.io/10-web-apis-every-senior-web-engineer-should-master-8ef3198368c2)                                                                                  | 7/9/23  |
 | [7 More JavaScript Web APIs to Build Futuristic Websites you didn't Know 🤯](https://dev.to/ruppysuppy/7-more-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-50bg)                                                          | 6/28/23 |
 | [Watching for changes to a user's location](https://gomakethings.com/watching-for-changes-to-a-users-location/)                                                                                                                              | 6/27    |
 | [How to setup a middleman API with vanilla JS](https://gomakethings.com/how-to-setup-a-middleman-api-with-vanilla-js/)                                                                                                                       | 5/1     |
