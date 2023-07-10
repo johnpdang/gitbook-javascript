@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [17 Pro JavaScript tricks you didn’t know](https://javascript.plainenglish.io/17-pro-javascript-tricks-you-didnt-know-b419c018dd19)                                                                                                   | 7/10/23 |
 | [Design Patterns: A Guide to JavaScript Development Principles for Clean and Scalable Code](https://javascript.plainenglish.io/design-patterns-a-guide-to-javascript-development-principles-for-clean-and-scalable-code-cf90771b48f2) | 6/23/23 |
 | [SOLID Principles in JavaScript](https://medium.com/@akashjha9041/solid-principles-in-javascript-ab69197e4cf7)                                                                                                                        | 5/30/23 |
 | [7 JavaScript Design Patterns Every developer should know](https://codinghelp.io/7-javascript-design-patterns-every-developer-should-know/?utm\_campaign=Frontend%2BWeekly\&utm\_medium=email\&utm\_source=Frontend\_Weekly\_357)     | 5/10/23 |
