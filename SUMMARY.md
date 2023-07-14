@@ -68,6 +68,7 @@
 * [Security](security.md)
 * [setTimeout](settimeout.md)
 * [Service Worker](service-worker.md)
+* [SPA](spa.md)
 * [String](string.md)
 * [Transition](transition.md)
 * [Translate](translate.md)
