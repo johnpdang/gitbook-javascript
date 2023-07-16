@@ -1,0 +1,7 @@
+# Methods
+
+|                                                                                                                                                                                                                                                                                               |         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| <p><a href="https://javascript.plainenglish.io/5-javascript-advanced-methods-you-dont-know-ff0bbfd3eff">Member-only story</a></p><p><a href="https://javascript.plainenglish.io/5-javascript-advanced-methods-you-dont-know-ff0bbfd3eff">5 JavaScript Advanced Methods you Don’t Know</a></p> | 7/16/23 |
+|                                                                                                                                                                                                                                                                                               |         |
+|                                                                                                                                                                                                                                                                                               |         |

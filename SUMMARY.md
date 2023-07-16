@@ -50,6 +50,7 @@
 * [Keywords](keywords.md)
 * [Libraries](libraries.md)
 * [Loops](loops.md)
+* [Methods](methods.md)
 * [Modules](modules.md)
 * [Network](network.md)
 * [Numbers](numbers.md)
