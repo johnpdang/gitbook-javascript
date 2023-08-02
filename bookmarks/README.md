@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [5 Essential Points You Should Be Familiar With as a JavaScript Developer](https://medium.com/att-israel/5-essential-points-you-should-be-familiar-with-as-a-javascript-developer-c3d11890f366)                                       | 8/2/23  |
 | [JavaScript’s Shorthand Syntax That Every Developer Should Know](https://levelup.gitconnected.com/javascripts-shorthand-syntax-that-every-developer-should-know-50d9d4549065)                                                         | 7/19/23 |
 | [17 Pro JavaScript tricks you didn’t know](https://javascript.plainenglish.io/17-pro-javascript-tricks-you-didnt-know-b419c018dd19)                                                                                                   | 7/10/23 |
 | [Design Patterns: A Guide to JavaScript Development Principles for Clean and Scalable Code](https://javascript.plainenglish.io/design-patterns-a-guide-to-javascript-development-principles-for-clean-and-scalable-code-cf90771b48f2) | 6/23/23 |
