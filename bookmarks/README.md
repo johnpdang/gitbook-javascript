@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [8 Best Tips to Improve Your JavaScript Skills](https://www.geeksforgeeks.org/8-best-tips-to-improve-your-javascript-skills/?utm\_campaign=Frontend%2BWeekly\&utm\_medium=email\&utm\_source=Frontend\_Weekly\_372)                   | 8/23/23 |
 | [JavaScript Tips to Help You Build Better Web Development Projects](https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/)                                                                                   | 8/20/23 |
 | [5 Essential Points You Should Be Familiar With as a JavaScript Developer](https://medium.com/att-israel/5-essential-points-you-should-be-familiar-with-as-a-javascript-developer-c3d11890f366)                                       | 8/2/23  |
 | [JavaScript’s Shorthand Syntax That Every Developer Should Know](https://levelup.gitconnected.com/javascripts-shorthand-syntax-that-every-developer-should-know-50d9d4549065)                                                         | 7/19/23 |
