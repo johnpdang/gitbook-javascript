@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                   |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [The new Array.prototype.toSpliced() method in vanilla JS](https://gomakethings.com/the-new-array.prototype.tospliced-method-in-vanilla-js/)                                      | 9/12/23 |
 | [How to deep merge arrays and objects with JavaScript](https://gomakethings.com/how-to-deep-merge-arrays-and-objects-with-javascript/)                                            | 4/27/23 |
 | [One Array Method to Rule Them All: Demystifying JavaScript’s reduce()](https://blog.devgenius.io/one-array-method-to-rule-them-all-demystifying-javascripts-reduce-410ffe275745) | 6/11/23 |
 |                                                                                                                                                                                   |         |
