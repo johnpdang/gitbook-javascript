@@ -76,6 +76,7 @@
 * [Tutorials/tests](tutorials-tests.md)
 * [Types](types.md)
 * [Typescript](typescript.md)
+* [Utilities](utilities.md)
 * [Variables](variables.md)
 * [Video](video.md)
 * [Web Browser](web-browser.md)
