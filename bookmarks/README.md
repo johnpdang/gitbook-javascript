@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [13 super rad web dev tricks you don't know about (but should)](https://gomakethings.com/13-super-rad-web-dev-tricks-you-dont-know-about-but-should/)                                                                                 | 9/26/23 |
 | [Top 7 JavaScript One-Liners: Your Path to Cleaner, Readable Code 📜](https://dev.to/sharmakushal/top-7-javascript-one-liners-your-path-to-cleaner-readable-code-22ol)                                                                | 9/16/23 |
 | [8 Best Tips to Improve Your JavaScript Skills](https://www.geeksforgeeks.org/8-best-tips-to-improve-your-javascript-skills/?utm\_campaign=Frontend%2BWeekly\&utm\_medium=email\&utm\_source=Frontend\_Weekly\_372)                   | 8/23/23 |
 | [JavaScript Tips to Help You Build Better Web Development Projects](https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/)                                                                                   | 8/20/23 |
