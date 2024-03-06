@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [30 JavaScript Tricky Hacks](https://dev.to/mmainulhasan/30-javascript-tricky-hacks-gfc)                                                                                                                                              | 3/6/24  |
 | [How to deal with spaghetti code](https://gomakethings.com/how-to-deal-with-spaghetti-code/)                                                                                                                                          | 10/2/23 |
 | [13 super rad web dev tricks you don't know about (but should)](https://gomakethings.com/13-super-rad-web-dev-tricks-you-dont-know-about-but-should/)                                                                                 | 9/26/23 |
 | [Top 7 JavaScript One-Liners: Your Path to Cleaner, Readable Code 📜](https://dev.to/sharmakushal/top-7-javascript-one-liners-your-path-to-cleaner-readable-code-22ol)                                                                | 9/16/23 |
