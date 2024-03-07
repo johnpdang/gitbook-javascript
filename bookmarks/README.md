@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [The State of Jamstack: Developers Want Return to Simplicity](https://thenewstack.io/the-state-of-jamstack-developers-want-return-to-simplicity/)                                                                                     | 3/7/24  |
 | [30 JavaScript Tricky Hacks](https://dev.to/mmainulhasan/30-javascript-tricky-hacks-gfc)                                                                                                                                              | 3/6/24  |
 | [How to deal with spaghetti code](https://gomakethings.com/how-to-deal-with-spaghetti-code/)                                                                                                                                          | 10/2/23 |
 | [13 super rad web dev tricks you don't know about (but should)](https://gomakethings.com/13-super-rad-web-dev-tricks-you-dont-know-about-but-should/)                                                                                 | 9/26/23 |
