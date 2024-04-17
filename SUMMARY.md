@@ -69,6 +69,7 @@
 * [Security](security.md)
 * [setTimeout](settimeout.md)
 * [Service Worker](service-worker.md)
+* [Snippets](snippets.md)
 * [SPA](spa.md)
 * [String](string.md)
 * [Transition](transition.md)
