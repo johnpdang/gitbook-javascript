@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [The long path of JavaScript - from ES6 until today.](https://dev.to/fsh02/the-long-path-of-javascript-from-es6-until-today-3gc3?context=digest)                                                                                      | 5/27/24 |
 | [The State of Jamstack: Developers Want Return to Simplicity](https://thenewstack.io/the-state-of-jamstack-developers-want-return-to-simplicity/)                                                                                     | 3/7/24  |
 | [30 JavaScript Tricky Hacks](https://dev.to/mmainulhasan/30-javascript-tricky-hacks-gfc)                                                                                                                                              | 3/6/24  |
 | [How to deal with spaghetti code](https://gomakethings.com/how-to-deal-with-spaghetti-code/)                                                                                                                                          | 10/2/23 |
