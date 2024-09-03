@@ -66,6 +66,7 @@
 * [Regex](regex.md)
 * [Sandboxes](sandboxes.md)
 * [Scope](scope.md)
+* [Scroll](scroll.md)
 * [Security](security.md)
 * [setTimeout](settimeout.md)
 * [Service Worker](service-worker.md)
