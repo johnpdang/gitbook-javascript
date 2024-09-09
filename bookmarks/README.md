@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [15 amazing things you can do with simple JavaScript 🤯](https://app.daily.dev/posts/15-amazing-things-you-can-do-with-simple-javascript--jozlic1er)                                                                                  | 9/9/24  |
 | [The long path of JavaScript - from ES6 until today.](https://dev.to/fsh02/the-long-path-of-javascript-from-es6-until-today-3gc3?context=digest)                                                                                      | 5/27/24 |
 | [The State of Jamstack: Developers Want Return to Simplicity](https://thenewstack.io/the-state-of-jamstack-developers-want-return-to-simplicity/)                                                                                     | 3/7/24  |
 | [30 JavaScript Tricky Hacks](https://dev.to/mmainulhasan/30-javascript-tricky-hacks-gfc)                                                                                                                                              | 3/6/24  |
