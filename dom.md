@@ -1,12 +1,13 @@
 # DOM
 
-|                                                                                                                                                                         |         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [🌐 Understanding Shadow DOM and Web Components in JavaScript](https://dev.to/dipakahirav/understanding-shadow-dom-and-web-components-in-javascript-9bk?context=digest) | 6/21/24 |
-| [Taming the Shadow DOM: Injecting Global Styles with Adopted Stylesheets](https://southleft.com/insights/development/adopted-stylesheets/)                              | 4/9/24  |
-| [8 DOM APIs You Shouldn’t Ignore](https://javascript.plainenglish.io/8-html-tips-you-shouldnt-ignore-fc1aa36ebf1c)                                                      | 6/6/23  |
-| [$(document).ready equivalent without jQuery](https://dev.to/navyaarora01/documentready-equivalent-without-jquery-1o45)                                                 | 5/31/23 |
-|                                                                                                                                                                         |         |
+|                                                                                                                                                                         |          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Exploring essential DOM methods for frontend development](https://blog.logrocket.com/exploring-essential-dom-methods-frontend-development/?ref=dailydev)               | 10/18/24 |
+| [🌐 Understanding Shadow DOM and Web Components in JavaScript](https://dev.to/dipakahirav/understanding-shadow-dom-and-web-components-in-javascript-9bk?context=digest) | 6/21/24  |
+| [Taming the Shadow DOM: Injecting Global Styles with Adopted Stylesheets](https://southleft.com/insights/development/adopted-stylesheets/)                              | 4/9/24   |
+| [8 DOM APIs You Shouldn’t Ignore](https://javascript.plainenglish.io/8-html-tips-you-shouldnt-ignore-fc1aa36ebf1c)                                                      | 6/6/23   |
+| [$(document).ready equivalent without jQuery](https://dev.to/navyaarora01/documentready-equivalent-without-jquery-1o45)                                                 | 5/31/23  |
+|                                                                                                                                                                         |          |
 
 ### 2021
 
