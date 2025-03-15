@@ -2,17 +2,11 @@
 
 |                                                                                                                                                                                   |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [JavaScript New Array Methods for Better and Cleaner Code](https://app.daily.dev/posts/javascript-new-array-methods-for-better-and-cleaner-code-zpxiiapan)                        | 3/15/25 |
 | [Array.reduce() is Goated 🐐✨](https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j?context=digest)                                                                        | 5/14/24 |
 | [The new Array.prototype.toSpliced() method in vanilla JS](https://gomakethings.com/the-new-array.prototype.tospliced-method-in-vanilla-js/)                                      | 9/12/23 |
 | [How to deep merge arrays and objects with JavaScript](https://gomakethings.com/how-to-deep-merge-arrays-and-objects-with-javascript/)                                            | 4/27/23 |
 | [One Array Method to Rule Them All: Demystifying JavaScript’s reduce()](https://blog.devgenius.io/one-array-method-to-rule-them-all-demystifying-javascripts-reduce-410ffe275745) | 6/11/23 |
-|                                                                                                                                                                                   |         |
-
-|                                                                                                                                                            |         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [JavaScript New Array Methods for Better and Cleaner Code](https://app.daily.dev/posts/javascript-new-array-methods-for-better-and-cleaner-code-zpxiiapan) | 3/15/25 |
-|                                                                                                                                                            |         |
-|                                                                                                                                                            |         |
 
 ### 2021
 
