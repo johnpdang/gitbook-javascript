@@ -34,6 +34,7 @@
 * [Form](form.md)
 * [Framework](framework/README.md)
   * [Astro](framework/astro.md)
+  * [Nextjs](framework/nextjs.md)
   * [React](framework/react.md)
   * [Svelte](framework/svelte.md)
   * [Vue](framework/vue.md)
