@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                   |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [JavaScript New Array Methods for Better and Cleaner Code](https://app.daily.dev/posts/javascript-new-array-methods-for-better-and-cleaner-code-zpxiiapan)                        | 4/4/25  |
 | [JavaScript New Array Methods for Better and Cleaner Code](https://app.daily.dev/posts/javascript-new-array-methods-for-better-and-cleaner-code-zpxiiapan)                        | 3/15/25 |
 | [Array.reduce() is Goated 🐐✨](https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j?context=digest)                                                                        | 5/14/24 |
 | [The new Array.prototype.toSpliced() method in vanilla JS](https://gomakethings.com/the-new-array.prototype.tospliced-method-in-vanilla-js/)                                      | 9/12/23 |
