@@ -2,6 +2,7 @@
 
 |                                                                                                                                                       |         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Vue Equipment](https://www.vue.equipment/?ref=dailydev)                                                                                              | 5/16/25 |
 | [Headless form validation for Vue.js](https://app.daily.dev/posts/headless-form-validation-for-vue-js-kh1b9klxe)                                      | 5/3/25  |
 | [Yes, here are 3 ways to create a multiple layout system with Vue 3](https://itnext.io/3-ways-to-create-a-multiple-layouts-system-vue-3-b24c0736b7bb) | 5/28/23 |
 | [The Best Backend for Vue: 6 Options](https://medium.com/bootdotdev/the-best-backend-for-vue-6-options-8a89c8e44422)                                  | 8/27/23 |
