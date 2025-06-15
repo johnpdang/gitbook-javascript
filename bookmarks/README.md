@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [JavaScript Visualized](https://app.daily.dev/posts/javascript-visualized-jf60glu2w)                                                                                                                                                  | 6/15/25  |
 | [JavaScript is easy... Until you meet these confusing concepts.](https://app.daily.dev/posts/javascript-is-easy-until-you-meet-these-confusing-concepts--m9uvx2lj9)                                                                   | 4/6/25   |
 | [All Javascript Concepts ( A-Z) Basic to Advanced](https://app.daily.dev/posts/all-javascript-concepts-a-z-basic-to-advanced-hbjqludfi)                                                                                               | 11/18/24 |
 | [Plain Vanilla](https://plainvanillaweb.com/pages/components.html)                                                                                                                                                                    | 9/27/24  |
