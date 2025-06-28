@@ -15,6 +15,7 @@
 * [Bundlers](bundlers/README.md)
   * [npm](bundlers/npm.md)
   * [Parcel](bundlers/parcel.md)
+  * [Vite](bundlers/vite.md)
   * [Webpack](bundlers/webpack.md)
 * [Buttons](buttons.md)
 * [Cheatsheets](cheatsheets.md)
