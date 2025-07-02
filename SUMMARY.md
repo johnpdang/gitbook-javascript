@@ -25,6 +25,7 @@
 * [Date](date.md)
 * [Debugger](debugger.md)
 * [DOM](dom.md)
+* [Drag and drop](drag-and-drop.md)
 * [Education](bookmarks/README.md)
   * [Abbreviation/Terms](bookmarks/abbreviation-terms.md)
   * [Feeds](bookmarks/feeds.md)
