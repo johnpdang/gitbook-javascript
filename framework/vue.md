@@ -2,6 +2,7 @@
 
 |                                                                                                                                                       |         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Animated Vue components](https://vue-bits.dev/?ref=dailydev)                                                                                         | 7/22/25 |
 | [Apple’s Liquid Glass Design - but in vue 3](https://app.daily.dev/posts/apple-s-liquid-glass-design---but-in-vue-3-45ynv4fgy)                        | 6/26/25 |
 | [Liquid Glass for VueJS](https://app.daily.dev/posts/liquid-glass-for-vuejs-odg5pl6rl)                                                                | 6/17/25 |
 | [Vue Equipment](https://www.vue.equipment/?ref=dailydev)                                                                                              | 5/16/25 |
