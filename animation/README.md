@@ -1,11 +1,12 @@
 # Animation
 
-|                                                                                                                                  |         |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [Glaze](https://glaze.dev/docs/)                                                                                                 | 5/26/25 |
-| [JavaScript Animation Engine](https://animejs.com/?ref=dailydev)                                                                 | 4/12/25 |
-| [How to easily add CSS animations to your projects](https://gomakethings.com/how-to-easily-add-css-animations-to-your-projects/) | 5/17    |
-| [Spotlight cursor text screen](https://codepen.io/carolineartz/pen/rNaGQYo)                                                      | 2/5     |
+|                                                                                                                                                                                                                      |         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Built to Move: A Closer Look at the Animations Behind Eduard Bodak’s Portfolio](https://tympanus.net/codrops/2025/07/29/built-to-move-a-closer-look-at-the-animations-behind-eduard-bodaks-portfolio/?ref=dailydev) | 9/2/25  |
+| [Glaze](https://glaze.dev/docs/)                                                                                                                                                                                     | 5/26/25 |
+| [JavaScript Animation Engine](https://animejs.com/?ref=dailydev)                                                                                                                                                     | 4/12/25 |
+| [How to easily add CSS animations to your projects](https://gomakethings.com/how-to-easily-add-css-animations-to-your-projects/)                                                                                     | 5/17    |
+| [Spotlight cursor text screen](https://codepen.io/carolineartz/pen/rNaGQYo)                                                                                                                                          | 2/5     |
 
 ### 2020
 
