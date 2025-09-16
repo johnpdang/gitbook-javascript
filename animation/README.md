@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                      |         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Interactive Video Projection Mapping with Three.js](https://vwlab.io/pages/video-projection-codrops)                                                                                                                | 9/16/25 |
 | [Built to Move: A Closer Look at the Animations Behind Eduard Bodak’s Portfolio](https://tympanus.net/codrops/2025/07/29/built-to-move-a-closer-look-at-the-animations-behind-eduard-bodaks-portfolio/?ref=dailydev) | 9/2/25  |
 | [Glaze](https://glaze.dev/docs/)                                                                                                                                                                                     | 5/26/25 |
 | [JavaScript Animation Engine](https://animejs.com/?ref=dailydev)                                                                                                                                                     | 4/12/25 |
