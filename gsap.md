@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                 |         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Create Sick Web Animations in Three.js with GSAP](https://spin.atomicobject.com/animations-threejs-gsap/?ref=dailydev)                                                                         | 10/9/25 |
 | [Best animation library is free now - GSAP](https://app.daily.dev/posts/best-animation-library-is-free-now---gsap-emsiwy6oa)                                                                    | 5/15/25 |
 | [Mastering Carousels with GSAP: From Basics to Advanced Animation](https://app.daily.dev/posts/mastering-carousels-with-gsap-from-basics-to-advanced-animation-xjvdrumjj)                       | 4/26/25 |
 | [Animating Letters with Shaders: Interactive Text Effect with Three.js & GLSL](https://app.daily.dev/posts/animating-letters-with-shaders-interactive-text-effect-with-three-js-glsl-kogda2cwv) | 3/24/25 |
