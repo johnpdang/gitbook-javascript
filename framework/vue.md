@@ -2,6 +2,7 @@
 
 |                                                                                                                                                               |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Vue.js usage statistics](https://app.daily.dev/posts/vue-js-usage-statistics-62pfzenc4)                                                                      | 10/14/25 |
 | [Build beautiful websites using Vue & Nuxt](https://app.daily.dev/posts/i-think-those-are-very-nice-to-share-with-you-people-https-inspira-ui-com--fjt1zndei) | 8/5/25  |
 | [Animated Vue components](https://vue-bits.dev/?ref=dailydev)                                                                                                 | 7/22/25 |
 | [Apple’s Liquid Glass Design - but in vue 3](https://app.daily.dev/posts/apple-s-liquid-glass-design---but-in-vue-3-45ynv4fgy)                                | 6/26/25 |
