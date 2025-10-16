@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                       |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [How Vite Became the Backbone of Modern Frontend Frameworks](https://app.daily.dev/posts/how-vite-became-the-backbone-of-modern-frontend-frameworks-tpgrnha3w)        | 10/16/25 |
 | [10 JavaScript Frameworks to Enhance Your Web Development](https://medium.com/front-end-weekly/10-javascript-frameworks-to-enhance-your-web-development-5924b4742e60) | 6/12/23 |
 | [Uncovering the Key to a Speedy Frontend Framework](https://codingpastor.dev/uncovering-the-key-to-a-speedy-frontend-framework)                                       | 5/26/23 |
 | [When should you use a state-based UI library?](https://gomakethings.com/when-should-you-use-a-state-based-ui-library/)                                               | 8/10    |
