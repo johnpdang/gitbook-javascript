@@ -1,16 +1,17 @@
 # Vue
 
-|                                                                                                                                                               |         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+|                                                                                                                                                               |          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Vue School's Free Weekend](https://vueschool.io/courses/the-vuejs-3-master-class)                                                                            | 11/8/25  |
 | [Vue.js usage statistics](https://app.daily.dev/posts/vue-js-usage-statistics-62pfzenc4)                                                                      | 10/14/25 |
-| [Build beautiful websites using Vue & Nuxt](https://app.daily.dev/posts/i-think-those-are-very-nice-to-share-with-you-people-https-inspira-ui-com--fjt1zndei) | 8/5/25  |
-| [Animated Vue components](https://vue-bits.dev/?ref=dailydev)                                                                                                 | 7/22/25 |
-| [Apple’s Liquid Glass Design - but in vue 3](https://app.daily.dev/posts/apple-s-liquid-glass-design---but-in-vue-3-45ynv4fgy)                                | 6/26/25 |
-| [Liquid Glass for VueJS](https://app.daily.dev/posts/liquid-glass-for-vuejs-odg5pl6rl)                                                                        | 6/17/25 |
-| [Vue Equipment](https://www.vue.equipment/?ref=dailydev)                                                                                                      | 5/16/25 |
-| [Headless form validation for Vue.js](https://app.daily.dev/posts/headless-form-validation-for-vue-js-kh1b9klxe)                                              | 5/3/25  |
-| [Yes, here are 3 ways to create a multiple layout system with Vue 3](https://itnext.io/3-ways-to-create-a-multiple-layouts-system-vue-3-b24c0736b7bb)         | 5/28/23 |
-| [The Best Backend for Vue: 6 Options](https://medium.com/bootdotdev/the-best-backend-for-vue-6-options-8a89c8e44422)                                          | 8/27/23 |
+| [Build beautiful websites using Vue & Nuxt](https://app.daily.dev/posts/i-think-those-are-very-nice-to-share-with-you-people-https-inspira-ui-com--fjt1zndei) | 8/5/25   |
+| [Animated Vue components](https://vue-bits.dev/?ref=dailydev)                                                                                                 | 7/22/25  |
+| [Apple’s Liquid Glass Design - but in vue 3](https://app.daily.dev/posts/apple-s-liquid-glass-design---but-in-vue-3-45ynv4fgy)                                | 6/26/25  |
+| [Liquid Glass for VueJS](https://app.daily.dev/posts/liquid-glass-for-vuejs-odg5pl6rl)                                                                        | 6/17/25  |
+| [Vue Equipment](https://www.vue.equipment/?ref=dailydev)                                                                                                      | 5/16/25  |
+| [Headless form validation for Vue.js](https://app.daily.dev/posts/headless-form-validation-for-vue-js-kh1b9klxe)                                              | 5/3/25   |
+| [Yes, here are 3 ways to create a multiple layout system with Vue 3](https://itnext.io/3-ways-to-create-a-multiple-layouts-system-vue-3-b24c0736b7bb)         | 5/28/23  |
+| [The Best Backend for Vue: 6 Options](https://medium.com/bootdotdev/the-best-backend-for-vue-6-options-8a89c8e44422)                                          | 8/27/23  |
 
 ### 2021
 
