@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Why Developers Are Ditching Frameworks for Vanilla JavaScript](https://app.daily.dev/posts/why-developers-are-ditching-frameworks-for-vanilla-javascript-cycaxb92o)                                                                  | 1/4/25   |
 | [JS Visualizer 9000](https://app.daily.dev/posts/javascript-visualizer-ghxcqutpa)                                                                                                                                                     | 7/30/25  |
 | [JavaScript Visualized](https://app.daily.dev/posts/javascript-visualized-jf60glu2w)                                                                                                                                                  | 6/15/25  |
 | [JavaScript is easy... Until you meet these confusing concepts.](https://app.daily.dev/posts/javascript-is-easy-until-you-meet-these-confusing-concepts--m9uvx2lj9)                                                                   | 4/6/25   |
